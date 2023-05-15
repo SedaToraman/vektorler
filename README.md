@@ -1,5 +1,6 @@
 # vektorler
 Kodluyoruz-Front-End Eğitimi| TemelMatematikProjeOdevi
+
 Bu yazı patika.dev içerisinde takip ettiğim kurslardan Temel Matematik kursunun proje ödevi için oluşturulmuştur.
 
 # Nedir Bu Vektörler?
