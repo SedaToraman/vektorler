@@ -2,6 +2,8 @@
 Kodluyoruz-Front-End Eğitimi| TemelMatematikProjeOdevi
 Bu yazı patika.dev içerisinde takip ettiğim kurslardan Temel Matematik kursunun proje ödevi için oluşturulmuştur.
 
+# Nedir Bu Vektörler?
+
 Vektörler, matematikte yön ve büyüklük bilgisini içeren niceliklerdir. Bu nedenle, matematiksel ve fiziksel problemleri çözmek için sıkça kullanılırlar. Vektörler, genellikle ok işareti ile gösterilirler ve boyu ve yönü gösteren bir çizgi ile ifade edilirler. Herhangi bir niceliği büyüklük ve yön olarak tanımlamamız gerektiğinde, vektörleri kullanabiliriz. Vektörlerin birçok alanda kullanımı bulunmaktadır, örneğin fizikte nesnelerin hızı ve ivmesi, mühendislikte kuvvet ve momentum gibi, bilgisayar biliminde ise grafiklerdeki konum, yön ve hareket gibi birçok özellik vektörlerle temsil edilebilir. Bu nedenle, vektörler, bilimsel ve teknolojik gelişmelerin yanı sıra, günlük hayatımızda da önemli bir rol oynarlar.
 
 Örneğin, bir nesnenin hızı bir vektördür. Hız, büyüklüğü (yani hızın miktarı) ve yönü (yani hareketin yönü) içerir. Örneğin, bir araba 60 km/sa hızla doğuya doğru giderse, hızı "60 km/sa doğuya" şeklinde ifade edilebilir. Bu, vektörün boyu ve yönüdür.
